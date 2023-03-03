@@ -2,6 +2,7 @@
 
 > Use o site para, procurar todos os vídeos disponíveis de um perfil do XV Red
 
+![0](https://i.imgur.com/0oZpGfx.mp4)
 
 # 1 - Encontrando o Canal 
 

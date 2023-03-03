@@ -4,6 +4,8 @@
 
 # 1 - Encontrando o Canal 
 
+![1](https://i.imgur.com/OFFqBfH.png)
+
 > Digite no campo de busca, o nome do canal do XV, e logo a baixo procure pelo perfil, e clique nele.
 
 # 2 - Encontre o vídeo
